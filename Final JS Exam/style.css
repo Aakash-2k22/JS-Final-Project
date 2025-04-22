@@ -1,0 +1,41 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+body {
+    background-color: white;
+    background: linear-gradient(95deg, rgb(230, 205, 163), white , rgb(148, 228, 148));
+
+}
+
+h1 {
+    color: navy;
+    font-weight: bold;
+    background: linear-gradient(175deg, orange, white , green);
+    transition: 0.5s ease;
+    font-size: 35px;
+}
+h1:hover{
+    border-radius: 50px 50px 0px 0px;
+    transform: translateY(5px);
+}
+
+.table thead th {
+    background-color: #1a2d40c6;
+    color: white;
+    border-color: #24394e;
+    text-align: center;
+}
+
+
+.table-responsive {
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+#tableBody{
+    text-align: center;
+}
