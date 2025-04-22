@@ -8,3 +8,7 @@ A simple and responsive COVID-19 Tracker built using HTML, CSS, and JavaScript. 
 - 🌐 State-wise data table with total cases, recoveries, and deaths
 - 📱 Fully responsive and mobile-friendly design
 - 📊 Easy-to-read layout for better understanding
+
+## Output
+
+![Output]()
