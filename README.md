@@ -11,4 +11,4 @@ A simple and responsive COVID-19 Tracker built using HTML, CSS, and JavaScript. 
 
 ## Output
 
-![Output]()
+![Output](https://github.com/Aakash-2k22/JS-Final-Project/blob/387f6d1c34877615946b58f9a0b3c65fe589b2e8/Final%20JS%20Exam/Covid%2019.gif)
